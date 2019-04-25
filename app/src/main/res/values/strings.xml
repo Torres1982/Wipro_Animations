@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="text_view_scale">Scale Animation</string>
+    <string name="button_scale">Show Scale Animation</string>
+    <string name="text_view_rotate">Rotate Animation</string>
+    <string name="button_rotate">Show Rotate Animation</string>
+    <string name="text_view_translate">Translate Animation</string>
+    <string name="button_translate">Show Translate Animation</string>
+    <string name="text_view_alpha">Alpha Animation</string>
+    <string name="button_alpha">Show Alpha Animation</string>
+</resources>
